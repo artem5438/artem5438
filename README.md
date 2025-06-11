@@ -3,6 +3,7 @@
 # 💫 About Me:
 Hi!<br>My name is Artem!<br>🔭 I am currently a second-year student at the University of the Department of Information Systems and Technologies.
 
+</div>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:artemborodin####@gmail.com) 
