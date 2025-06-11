@@ -1,3 +1,5 @@
+<div align="center">
+
 # 💫 About Me:
 Hi!<br>My name is Artem!<br>🔭 I am currently a second-year student at the University of the Department of Information Systems and Technologies.
 
